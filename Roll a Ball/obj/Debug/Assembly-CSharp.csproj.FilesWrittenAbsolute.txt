@@ -1,0 +1,17 @@
+/Users/MyPrecious/Documents/Unity/Roll a Ball/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/MyPrecious/Documents/Unity/Roll a Ball/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/MyPrecious/Documents/Unity/Roll a Ball/obj/Debug/Assembly-CSharp.dll
+/Users/MyPrecious/Documents/Unity/Roll a Ball/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/MyPrecious/Documents/Unity/Roll a Ball/Temp/bin/Debug/UnityEngine.dll
+/Users/MyPrecious/Documents/Unity/Roll a Ball/Temp/bin/Debug/UnityEditor.dll
+/Users/MyPrecious/Documents/Unity/Roll a Ball/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/MyPrecious/Documents/Unity/Roll a Ball/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/MyPrecious/Documents/Unity/Roll a Ball/Temp/bin/Debug/Mono.Cecil.dll
+/Users/MyPrecious/Documents/Unity/Roll a Ball/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/MyPrecious/Documents/Unity/Roll a Ball/Temp/bin/Debug/Unity.DataContract.dll
+/Users/MyPrecious/Documents/Unity/Roll a Ball/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/MyPrecious/Documents/Unity/Roll a Ball/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/MyPrecious/Documents/Unity/Roll a Ball/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/MyPrecious/Documents/Unity/Roll a Ball/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/MyPrecious/Documents/Unity/Roll a Ball/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/MyPrecious/Documents/Unity/Roll a Ball/Temp/bin/Debug/Mono.Cecil.Mdb.dll
